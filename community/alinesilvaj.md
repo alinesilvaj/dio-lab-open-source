@@ -1,20 +1,3 @@
-<style>
-    h1 {
-        font-weight: bold; 
-        text-align: center; 
-        font-size: 2.5rem; 
-        text-shadow: 2px 2px 5px rgba(197, 79, 172, 0.5);
-    }
-    h2 {
-        text-shadow: 2px 2px 5px rgb(202, 105, 181, 0.5);
-    }
-    p {
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        text-indent: 1rem;
-        font-size: 1.05rem
-    }
-</style>
-
 <h1> Aline Silva </h1>
 
 <h2> About me </h2>
